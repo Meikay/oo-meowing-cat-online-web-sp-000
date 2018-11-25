@@ -8,5 +8,5 @@ class Cat
 end
 
 # cat = Cat.new
-# cat.meow = "meow!"
+ cat.meow = "meow!"
 # cat.greeting
