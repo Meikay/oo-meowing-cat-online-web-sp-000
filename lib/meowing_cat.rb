@@ -7,6 +7,6 @@ class Cat
   end
 end
 
-cat = Cat.new
-cat.meow = "meow!"
-cat.greeting
+# cat = Cat.new
+# cat.meow = "meow!"
+# cat.greeting
