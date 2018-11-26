@@ -5,4 +5,4 @@ end
 
  maru = Cat.new
  maru.name = "Maru"
- puts maru.meow = "meow!"
+ maru.meow = "meow!"
