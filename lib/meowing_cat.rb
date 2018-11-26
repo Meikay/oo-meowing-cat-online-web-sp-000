@@ -3,7 +3,7 @@ class Cat
   attr_accessor :name, :meow
 end
 
- cat = Cat.new
- cat.name = "Maru"
- cat.meow = "meow!"
+ maru = Cat.new
+ maru.name = "Maru"
+ maru.meow = "meow!"
  puts maru.meow
