@@ -6,7 +6,7 @@ class Cat
     @name = name
   end
 
-  def initialize(meow)
+  def initialize
     @meow = meow
   end
 end
