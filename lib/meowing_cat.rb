@@ -4,5 +4,6 @@ class Cat
 end
 
  cat = Cat.new
+ cat.name = maru
  cat.meow = "meow!"
- puts cat.meow
+ puts maru.meow
